@@ -26,9 +26,17 @@
 .user-profile-card h2, .user-profile-card p {
   margin: 10px 0;
   font-family: 'Rancho', cursive;
-  font-size: 25px;
+  font-size: 22px;
+  color: #fff;
+
+  
+}
+.para {
+  font-size: 5px;
+  font-family: 'Rancho', cursive;
   color: #fff;
 }
+
 .stats{ 
   display: flex;
   
