@@ -4,7 +4,7 @@ function UserProfileCard() {
   return (
     <div className="App">
     <div className="user-profile-card">
-      <img src={taffie} alt="Taffie Pic" />
+      <img src={taffie} alt="Taffie Pic" /><br/><br/>
       <h2>Tafadzwa Chijarira</h2>
       <p className="para">Full Stack Developer</p><br/>
       <p>

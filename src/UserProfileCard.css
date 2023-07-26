@@ -29,14 +29,8 @@
   font-size: 22px;
   color: #fff;
 
-  
+ 
 }
-.para {
-  font-size: 5px;
-  font-family: 'Rancho', cursive;
-  color: #fff;
-}
-
 .stats{ 
   display: flex;
   
