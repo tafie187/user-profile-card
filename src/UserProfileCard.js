@@ -18,7 +18,7 @@ function UserProfileCard() {
           </li>
           <li>
             300 <br />
-            Followers
+            Following
           </li>
           <li>
             15 <br />
